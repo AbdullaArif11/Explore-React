@@ -1,0 +1,13 @@
+.border{
+  border: 2px solid gray;
+  padding:10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.border2{
+  border: 2px solid rgb(2, 196, 167);
+  padding:10px;
+  margin: 10px;
+  border-radius: 10px;
+}
